@@ -1,15 +1,15 @@
 .maintitle {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    text-align: center
+    font-family
 }
 
 #main-title {
     font-weight:normal;
     font-size: 40px;
-}
+    }
 
 header{
     width: 100%;
     background-color: aliceblue;
+    text-align: center;
 }
 
